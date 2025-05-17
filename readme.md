@@ -4,7 +4,7 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
     &nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/42747200/46140786-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="Assembly" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" alt="Assembly" width="60" height="60" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://assemblyscript.org/logo.svg" alt="AssemblyScript" width="60" height="60" />
     &nbsp;&nbsp;&nbsp;
