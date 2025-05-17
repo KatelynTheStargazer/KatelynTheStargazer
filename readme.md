@@ -9,14 +9,14 @@
   </p>
 
   <div align="center">
-  <p style="font-family: monospace;">
-    _                               _       _     _        <br />
-   | |_ _ __ __ _ _ __  ___    _ __(_) __ _| |__ | |_ ___  <br />
-   | __| '__/ _` | '_ \/ __|  | '__| |/ _` | '_ \| __/ __| <br />
-   | |_| | | (_| | | | \__ \  | |  | | (_| | | | | |_\__ \ <br />
-    \__|_|  \__,_|_| |_|___/  |_|  |_|\__, |_| |_|\__|___/ <br />
-                                         |___/             <br />
-  </p>
+  <pre style="background: none; box-shadow: none; padding: 0; margin: 0; font-family: monospace;">
+<span style="color: #55CDFC;">  _                               _       _     _        </span>
+<span style="color: #F7A8B8;"> | |_ _ __ __ _ _ __  ___    _ __(_) __ _| |__ | |_ ___  </span>
+<span style="color: #FFFFFF;"> | __| '__/ _` | '_ \/ __|  | '__| |/ _` | '_ \| __/ __| </span>
+<span style="color: #F7A8B8;"> | |_| | | (_| | | | \__ \  | |  | | (_| | | | | |_\__ \ </span>
+<span style="color: #55CDFC;">  \__|_|  \__,_|_| |_|___/  |_|  |_|\__, |_| |_|\__|___/ </span>
+<span style="color: #55CDFC;">                                     |___/                </span>
+  </pre>
 </div>
 
   <p>
