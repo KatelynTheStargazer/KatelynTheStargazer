@@ -6,7 +6,7 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" alt="Assembly" width="60" height="60" />
     &nbsp;&nbsp;&nbsp;
-    <img src="https://assemblyscript.org/logo.svg" alt="AssemblyScript" width="60" height="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" alt="AssemblyScript" width="60" height="60" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="Fortran" width="60" height="60" />
     &nbsp;&nbsp;&nbsp;
