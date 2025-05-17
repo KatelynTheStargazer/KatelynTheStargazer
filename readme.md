@@ -8,15 +8,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Omnisexuality_flag.svg" alt="Omnisexual Flag" width="40" height="25" />
   </p>
 
-  <div align="center">
-  <pre style="background: none; box-shadow: none; font-family: monospace; font-size: 16px; line-height: 1.1;">_                               _       _     _   
+  <pre>
+  _                               _       _     _        
  | |_ _ __ __ _ _ __  ___    _ __(_) __ _| |__ | |_ ___  
  | __| '__/ _` | '_ \/ __|  | '__| |/ _` | '_ \| __/ __| 
  | |_| | | (_| | | | \__ \  | |  | | (_| | | | | |_\__ \ 
   \__|_|  \__,_|_| |_|___/  |_|  |_|\__, |_| |_|\__|___/ 
-                                     |___/        
+                                     |___/                
   </pre>
-</div>
 
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
