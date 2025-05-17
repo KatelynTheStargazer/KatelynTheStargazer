@@ -9,8 +9,7 @@
   </p>
 
   <div align="center">
-  <pre style="background: none; box-shadow: none; font-family: monospace; font-size: 16px; line-height: 1.1;">
-_                               _       _     _   
+  <pre style="background: none; box-shadow: none; font-family: monospace; font-size: 16px; line-height: 1.1;">_                               _       _     _   
  | |_ _ __ __ _ _ __  ___    _ __(_) __ _| |__ | |_ ___  
  | __| '__/ _` | '_ \/ __|  | '__| |/ _` | '_ \| __/ __| 
  | |_| | | (_| | | | \__ \  | |  | | (_| | | | | |_\__ \ 
