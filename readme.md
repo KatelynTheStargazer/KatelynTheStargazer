@@ -1,9 +1,9 @@
 <div align="center">
   <h2>puppy girl boy thing programmer</h2>
   <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Genderfluid_pride_flag.svg" alt="Genderfluid Flag" width="40" height="25" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Genderfluidity_Pride-Flag.svg/2560px-Genderfluidity_Pride-Flag.svg.png" alt="Genderfluid Flag" width="40" height="25" />
     &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Omnisexual_Pride_Flag.svg" alt="Omnisexual Flag" width="40" height="25" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Omnisexuality_flag.svg" alt="Omnisexual Flag" width="40" height="25" />
   </p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
